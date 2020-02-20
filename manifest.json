@@ -13,7 +13,7 @@
     ],
 
     "browser_action": {
-        "default_icon": "asher.png",
+        "default_icon": "smartzoomicon.png",
         "default_popup": "popup.html"
     }
 }
